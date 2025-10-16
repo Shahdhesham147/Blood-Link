@@ -44,7 +44,7 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/BloodLink.git
+   git clone https://github.com/Shahdhesham147/BloodLink.git
 Import the blood_bank.sql file into your MySQL database.
 
 Run a local server using XAMPP or WAMP.
